@@ -1,0 +1,9 @@
+### Git Ignore ###
+*.iml
+.project
+.settings
+.idea
+.DS_Store
+target/
+build/
+logs

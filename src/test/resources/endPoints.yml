@@ -1,0 +1,6 @@
+config:
+  - host: https://pro-api.coinmarketcap.com
+  - version: v1
+  - endPoints:
+      - map: cryptocurrency/map
+      - priceConversion: tools/price-conversion
