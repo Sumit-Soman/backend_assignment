@@ -59,7 +59,7 @@ glue: where the hooks and step definition is defined
 
 #### To run the project use this command
 
-`mvn clean generate-sources test`
+`mvn clean test`
 
 #### Cucumber Report
 

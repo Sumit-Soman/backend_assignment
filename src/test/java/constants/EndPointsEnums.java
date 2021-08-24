@@ -11,5 +11,5 @@ public enum EndPointsEnums {
     PRICECONVERSIONS("tools/price-conversion"),
     INFO("cryptocurrency/info");
 
-    private String value;
+    private final String value;
 }
